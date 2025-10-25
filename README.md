@@ -1,17 +1,17 @@
 ## 👋 Hi, I'm Kimi Sun  
 
-🎓 Grade 8 student at Bashi International Department  
-💻 Front-End Developer | ENTJ  
-🚀 Curious about AI, web, and digital innovation  
+🎓 Grade 8 student at BJ80 International Department  
+💻 Developer | ENTJ  
+🚀 Curious about AI, web3, and digital innovation  
 
 ---
 
 ### 🧩 Languages I Use  
-![HTML](https://img.shields.io/badge/HTML-50%25-orange?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-10%25-blue?style=for-the-badge&logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-10%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-10%25-red?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML--orange?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript--yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python--blue?style=for-the-badge&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS--1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java--red?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
@@ -29,7 +29,7 @@ Football 🥅 • Badminton 🏸
 ---
 
 ### 📊 GitHub Stats  
-![Kimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unknownuserfrommars&show_icons=true&theme=radical)  
+![Kimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimisun689&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownuserfrommars&layout=compact&theme=radical)
 
 ---
