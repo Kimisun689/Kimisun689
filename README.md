@@ -1,37 +1,48 @@
-## 👋 Hi, I'm Kimi Sun  
+<!-- Header Section -->
+<h1 align="center">👋 Hi, I'm <strong>Kimi Sun</strong></h1>
+<h3 align="center">💻 Front-End Developer | 🧠 ENTJ | 🎓 Grade 8 Student @ BJ80 International Department</h3>
 
-🎓 Grade 8 student at BJ80 International Department  
-💻 Developer | ENTJ  
-🚀 Curious about AI, web3, and digital innovation  
+<p align="center">
+  🌍 Exploring <strong>AI</strong>, <strong>web technologies</strong>, and <strong>digital innovation</strong><br>
+  ⚡ Turning ideas into interactive, intelligent experiences
+</p>
 
 ---
 
+<!-- Language Section -->
 ### 🧩 Languages I Use  
-![HTML](https://img.shields.io/badge/HTML--orange?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript--yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python--blue?style=for-the-badge&logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS--1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java--red?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-👍-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-👍-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-👍-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-👍-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-👍-red?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
 ---
 
+<!-- Project Section -->
 ### 🚀 Projects I've Built or Contributed To  
-- 🌐 [clingword.com](https://clingword.com) — AI Vocabulary Learning Tool  
-- ✉️ [leoc.li](https://leoc.li) — AI Email Assistant  
-- 🧠 **Singularity Academy** — Currently in Development  
-- 🎓 **Campus Ambassador** Program Participant  
+🌐 [**clingword.com**](https://clingword.com) — AI Vocabulary Learning Tool  
+✉️ [**leoc.li**](https://leoc.li) — AI Email Assistant  
+🧠 **Singularity Academy** — Currently in Development  
+🎓 **Campus Ambassador** Program Participant  
+🔮 **AIVA--the ultimate video AI** in development
 
 ---
 
-### ⚽️ Hobbies  
-Football 🥅 • Badminton 🏸  
 
----
-
+<!-- GitHub Stats Section -->
 ### 📊 GitHub Stats  
-![Kimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimisun689&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownuserfrommars&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kimisun689&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownuserfrommars&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-📫 **Contact:** [kimisun689@gmail.com](mailto:kimisun689@gmail.com)
+<!-- Footer Section -->
+<p align="center">
+  📫 <strong>Contact:</strong> <a href="mailto:kimisun689@gmail.com">kimisun689@gmail.com</a><br><br>
+  <img src="https://komarev.com/ghpvc/?username=Unknownuserfrommars&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views"/>
+</p>
