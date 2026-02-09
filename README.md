@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👋 Hi, I'm <strong>Kimi Sun</strong></h1>
-<h3 align="center">💻 Front-End Developer | 🧠 ENTJ | 🎓 Grade 8 Student @ BJ80 International Department</h3>
+<h3 align="center">💻 Full-Stack Developer | 🧠 ENTJ | 🎓 Grade 8 Student @ BJ80 International Department</h3>
 
 <p align="center">
   🌍 Exploring <strong>AI</strong>, <strong>web technologies</strong>, and <strong>digital innovation</strong><br>
