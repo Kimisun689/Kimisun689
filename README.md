@@ -17,16 +17,6 @@
 
 ---
 
-
-<!-- GitHub Stats Section -->
-### GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kimisun689&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownuserfrommars&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 <!-- Footer Section -->
 <p align="center">
   📫 <strong>Contact:</strong> <a href="mailto:kimisun689@gmail.com">kimisun689@gmail.com</a><br><br>
