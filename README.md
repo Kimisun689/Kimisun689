@@ -3,8 +3,8 @@
 <h3 align="center">Full-Stack Developer | ENTJ | Grade 10 Student @ BNDS International Department</h3>
 
 <p align="center">
-  🌍 Exploring <strong>AI</strong>, <strong>web technologies</strong>, and <strong>digital innovation</strong><br>
-  ⚡ Turning ideas into interactive, intelligent experiences
+    Exploring <strong>AI</strong>, <strong>web technologies</strong>, and <strong>digital innovation</strong><br>
+    Turning ideas into interactive, intelligent experiences
 </p>
 
 ---
