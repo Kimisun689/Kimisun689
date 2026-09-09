@@ -13,7 +13,7 @@
 ### Projects I've Built or Contributed To  
 [**clingword.com**](https://clingword.com) — AI Vocabulary Learning Tool  
 [**leoc.li**](https://leoc.li) — AI Email Assistant(under maintainance)
-[**clingword.com**]--the ultimate video AI
+[**aiva.website**](https://aiva.website)--the ultimate video AI
 
 ---
 
