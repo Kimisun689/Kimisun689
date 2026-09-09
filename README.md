@@ -9,18 +9,6 @@
 
 ---
 
-<!-- Language Section -->
-### 🧩 Languages I Use  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-👍-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-👍-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-👍-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-👍-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-👍-red?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
----
-
 <!-- Project Section -->
 ### 🚀 Projects I've Built or Contributed To  
 🌐 [**clingword.com**](https://clingword.com) — AI Vocabulary Learning Tool  
