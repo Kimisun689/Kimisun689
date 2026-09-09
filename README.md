@@ -11,11 +11,9 @@
 
 <!-- Project Section -->
 ### Projects I've Built or Contributed To  
-🌐 [**clingword.com**](https://clingword.com) — AI Vocabulary Learning Tool  
-✉️ [**leoc.li**](https://leoc.li) — AI Email Assistant  
-🧠 **Singularity Academy** — Currently in Development  
-🎓 **Campus Ambassador** Program Participant  
-🔮 **AIVA--the ultimate video AI** in development
+[**clingword.com**](https://clingword.com) — AI Vocabulary Learning Tool  
+[**leoc.li**](https://leoc.li) — AI Email Assistant(under maintainance)
+[**clingword.com**]--the ultimate video AI
 
 ---
 
