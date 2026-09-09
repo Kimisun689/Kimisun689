@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👋 Hi, I'm <strong>Kimi Sun</strong></h1>
-<h3 align="center">💻 Full-Stack Developer | 🧠 ENTJ | 🎓 Grade 10 Student @ BNDS International Department</h3>
+<h3 align="center">Full-Stack Developer | ENTJ | Grade 10 Student @ BNDS International Department</h3>
 
 <p align="center">
   🌍 Exploring <strong>AI</strong>, <strong>web technologies</strong>, and <strong>digital innovation</strong><br>
@@ -10,7 +10,7 @@
 ---
 
 <!-- Project Section -->
-### 🚀 Projects I've Built or Contributed To  
+### Projects I've Built or Contributed To  
 🌐 [**clingword.com**](https://clingword.com) — AI Vocabulary Learning Tool  
 ✉️ [**leoc.li**](https://leoc.li) — AI Email Assistant  
 🧠 **Singularity Academy** — Currently in Development  
@@ -21,7 +21,7 @@
 
 
 <!-- GitHub Stats Section -->
-### 📊 GitHub Stats  
+### GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kimisun689&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownuserfrommars&layout=compact&theme=tokyonight" height="165"/>
